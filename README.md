@@ -1,2 +1,2 @@
-# C-
+# C++
 Proyecto 1
